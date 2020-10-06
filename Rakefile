@@ -9,7 +9,6 @@ end
 
 Tailor::RakeTask.new
 
-
 desc "Display LOC stats"
 task :stats do
   puts "\n## Production Code Stats"
