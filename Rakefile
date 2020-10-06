@@ -7,6 +7,7 @@ Cane::RakeTask.new do |cane|
   cane.canefile = './.cane'
 end
 
+
 Tailor::RakeTask.new
 
 desc "Display LOC stats"
